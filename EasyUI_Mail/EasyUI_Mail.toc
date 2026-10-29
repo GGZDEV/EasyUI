@@ -1,0 +1,21 @@
+## Interface: 30300
+## Title: |cffffd100Easy|rUI - Courrier
+## Notes: Module Courrier d'EasyUI. Se gère depuis le panneau EasyUI (/eui > Options > Modules).
+## Author: Guillaume
+## Version: 3.3.0
+## Dependencies: EasyUI
+## SavedVariables: Postal3DB
+
+_LangueOn.lua
+Postal\Localization.lua
+Postal\Postal.lua
+Postal\Modules\Express.lua
+Postal\Modules\OpenAll.lua
+Postal\Modules\Wire.lua
+Postal\Modules\Select.lua
+Postal\Modules\TradeBlock.lua
+Postal\Modules\Rake.lua
+Postal\Modules\BlackBook.lua
+Postal\Modules\DoNotWant.lua
+Postal\Modules\CarbonCopy.lua
+_LangueOff.lua

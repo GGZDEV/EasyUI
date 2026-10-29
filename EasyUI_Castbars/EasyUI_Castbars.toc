@@ -1,0 +1,28 @@
+## Interface: 30300
+## Title: |cffffd100Easy|rUI - Barres d'incantation
+## Notes: Module Barres d'incantation d'EasyUI. Se gère depuis le panneau EasyUI (/eui > Options > Modules).
+## Author: Guillaume
+## Version: 3.3.0
+## Dependencies: EasyUI
+## SavedVariables: Quartz3DB
+
+_LangueOn.lua
+Quartz\locale\locale.xml
+Quartz\Quartz.lua
+Quartz\Config.lua
+Quartz\CastBarTemplate.lua
+Quartz\modules\Player.lua
+Quartz\modules\Target.lua
+Quartz\modules\Focus.lua
+Quartz\modules\Pet.lua
+Quartz\modules\Latency.lua
+Quartz\modules\Tradeskill.lua
+Quartz\modules\GCD.lua
+Quartz\modules\Buff.lua
+Quartz\modules\Mirror.lua
+Quartz\modules\Timer.lua
+Quartz\modules\Swing.lua
+Quartz\modules\Interrupt.lua
+Quartz\modules\Range.lua
+Quartz\modules\Flight.lua
+_LangueOff.lua

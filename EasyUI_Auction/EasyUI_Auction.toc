@@ -1,0 +1,37 @@
+## Interface: 30300
+## Title: |cffffd100Easy|rUI - Hôtel des ventes
+## Notes: Module Hôtel des ventes d'EasyUI. Se gère depuis le panneau EasyUI (/eui > Options > Modules).
+## Author: Guillaume
+## Version: 3.3.0
+## Dependencies: EasyUI
+## SavedVariables: AUCTIONATOR_SAVEDVARS, AUCTIONATOR_PRICING_HISTORY, AUCTIONATOR_SHOPPING_LISTS, AUCTIONATOR_PRICE_DATABASE, AUCTIONATOR_LAST_SCAN_TIME, AUCTIONATOR_TOONS, AUCTIONATOR_STACKING_PREFS, AUCTIONATOR_SCAN_MINLEVEL, AUCTIONATOR_DB_MAXITEM_AGE, AUCTIONATOR_DB_MAXHIST_AGE, AUCTIONATOR_DB_MAXHIST_DAYS, AUCTIONATOR_DC_PAUSE, AUCTIONATOR_DE_DATA, AUCTIONATOR_DE_DATA_BAK
+## SavedVariablesPerCharacter: AUCTIONATOR_SHOW_ST_PRICE, AUCTIONATOR_ENABLE_ALT, AUCTIONATOR_OPEN_FIRST, AUCTIONATOR_OPEN_BUY, AUCTIONATOR_OPEN_ALL_BAGS, AUCTIONATOR_DEF_DURATION, AUCTIONATOR_SHOW_TIPS, AUCTIONATOR_V_TIPS, AUCTIONATOR_A_TIPS, AUCTIONATOR_D_TIPS, AUCTIONATOR_SHIFT_TIPS, AUCTIONATOR_DE_DETAILS_TIPS, AUCTIONATOR_DEFTAB
+
+_LangueOn.lua
+Auctionator\Locales\enUS.lua
+Auctionator\Locales\deDE.lua
+Auctionator\Locales\ruRU.lua
+Auctionator\Locales\frFR.lua
+Auctionator\Locales\svSE.lua
+Auctionator\Locales\esES.lua
+Auctionator\Locales\zhTW.lua
+Auctionator\zcUtils.lua
+Auctionator\AtrErrorInspector.lua
+Auctionator\Auctionator.lua
+Auctionator\AuctionatorShop.lua
+Auctionator\Auctionator.xml
+Auctionator\AuctionatorLocalize.lua
+Auctionator\AuctionatorPane.lua
+Auctionator\AuctionatorDatabase.lua
+Auctionator\AuctionatorScan.lua
+Auctionator\AuctionatorScanFull.lua
+Auctionator\AuctionatorQuery.lua
+Auctionator\AuctionatorHints.lua
+Auctionator\AuctionatorVendor.lua
+Auctionator\AuctionatorConflicts.lua
+Auctionator\AuctionatorAPI.lua
+Auctionator\AuctionatorConfig.lua
+Auctionator\AuctionatorBuy.lua
+Auctionator\AuctionatorConfig.xml
+Auctionator\MiniFeatures.lua
+_LangueOff.lua

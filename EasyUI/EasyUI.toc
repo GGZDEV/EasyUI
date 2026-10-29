@@ -1,0 +1,46 @@
+## Interface: 30300
+## Title: |cffffd100Easy|rUI
+## Notes: Interface tout-en-un : barres d'action, barres d'incantation, temps de recharge, sacs, cadres et click-casting, gérés depuis un seul panneau.
+## Author: Guillaume
+## Version: 3.3.0
+## SavedVariables: EasyUIDB
+
+# Langue des modules (français)
+LocaleStart.lua
+
+# Librairies communes
+Libs\Libs.xml
+
+# Panneau EasyUI
+Core.lua
+Skin.lua
+GUI.lua
+EditMode.lua
+Snap.lua
+Minimap.lua
+Integration.lua
+OptionsEngine.lua
+Theme.lua
+Wizard.lua
+RaidFrames.xml
+RaidFrames.lua
+UnitFrames.lua
+DeathSkull.lua
+
+Pages\Home.lua
+Pages\UnitFrames.lua
+Pages\Bartender.lua
+Pages\Raid.lua
+Pages\Quartz.lua
+Pages\Cooldowns.lua
+Pages\Damage.lua
+Pages\Bagnon.lua
+Pages\MoveAnything.lua
+Pages\Minimap.lua
+Pages\Nameplates.lua
+Pages\Mail.lua
+Pages\Chat.lua
+Pages\Auction.lua
+Pages\Clique.lua
+Pages\Profiles.lua
+Pages\Settings.lua

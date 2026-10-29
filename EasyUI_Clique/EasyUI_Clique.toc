@@ -1,0 +1,28 @@
+## Interface: 30300
+## Title: |cffffd100Easy|rUI - Click-casting
+## Notes: Module Click-casting d'EasyUI. Se gère depuis le panneau EasyUI (/eui > Options > Modules).
+## Author: Guillaume
+## Version: 3.3.0
+## Dependencies: EasyUI
+## SavedVariables: CliqueDB, CliqueDB3
+
+_LangueOn.lua
+Clique\AddonCore.lua
+Clique\i18n\Localization.enUS.lua
+Clique\i18n\Localization.ruRU.lua
+Clique\i18n\Localization.zhCN.lua
+Clique\i18n\Localization.zhTW.lua
+Clique\i18n\Localization.EasyUI.lua
+Clique\DatabaseDefaults.lua
+Clique\ClickCastTemplate.xml
+Clique\Clique.xml
+Clique\Clique.lua
+Clique\Utils.lua
+Clique\ImportExport.lua
+Clique\config\BindConfig.lua
+Clique\config\OptionsPanel.lua
+Clique\config\BlizzardFramesConfig.lua
+Clique\config\DenylistConfig.lua
+Clique\modules\Blizzard_utils.lua
+Clique\modules\Blizzard_wrath.lua
+_LangueOff.lua

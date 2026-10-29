@@ -1,0 +1,25 @@
+## Interface: 30300
+## Title: |cffffd100Easy|rUI - Sacs
+## Notes: Module Sacs d'EasyUI. Se gère depuis le panneau EasyUI (/eui > Options > Modules).
+## Author: Guillaume
+## Version: 3.3.0
+## Dependencies: EasyUI
+## SavedVariables: BagnonGlobalSettings, BagnonForeverDB
+## SavedVariablesPerCharacter: BagnonFrameSettings
+
+_LangueOn.lua
+Bagnon\localization.xml
+Bagnon\main.lua
+Bagnon\utility.xml
+Bagnon\components.xml
+Bagnon_Forever\db.lua
+Bagnon_Forever\ui.xml
+Bagnon_Tooltips\localization\localization.lua
+Bagnon_Tooltips\localization\localization.tw.lua
+Bagnon_Tooltips\localization\localization.cn.lua
+Bagnon_Tooltips\localization\localization.ru.lua
+Bagnon_Tooltips\localization\localization.de.lua
+Bagnon_Tooltips\tooltips.lua
+Bagnon_GuildBank\main.lua
+Bagnon_GuildBank\components.xml
+_LangueOff.lua

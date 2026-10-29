@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: |cffffd100Easy|rUI - Temps de recharge
+## Notes: Module Temps de recharge d'EasyUI. Se gère depuis le panneau EasyUI (/eui > Options > Modules).
+## Author: Guillaume
+## Version: 3.3.0
+## Dependencies: EasyUI
+## SavedVariables: OmniCCGlobalSettings
+
+_LangueOn.lua
+OmniCC\localization.xml
+OmniCC\config.lua
+OmniCC\cc.lua
+OmniCC\effects.xml
+_LangueOff.lua

@@ -1,0 +1,12 @@
+# Ce dépôt ne suit que les dossiers EasyUI : tout le reste du dossier AddOns est ignoré
+/*
+!/.gitignore
+!/README.md
+!/.gitattributes
+!/EasyUI/
+!/EasyUI_*/
+
+# fichiers parasites
+*.bak
+Thumbs.db
+.DS_Store

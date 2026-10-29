@@ -1,0 +1,27 @@
+## Interface: 30300
+## Title: |cffffd100Easy|rUI - Minimap
+## Notes: Module Minimap d'EasyUI. Se gère depuis le panneau EasyUI (/eui > Options > Modules).
+## Author: Guillaume
+## Version: 3.3.0
+## Dependencies: EasyUI
+## SavedVariables: SexyMapDB
+
+_LangueOn.lua
+SexyMap\localization\enUS.lua
+SexyMap\localization\frFR.lua
+SexyMap\localization\zhTW.lua
+SexyMap\localization\zhCN.lua
+SexyMap\SexyMap.lua
+SexyMap\General.lua
+SexyMap\Shapes.lua
+SexyMap\AutoZoom.lua
+SexyMap\Buttons.lua
+SexyMap\BorderPresets.lua
+SexyMap\Borders.lua
+SexyMap\Coordinates.lua
+SexyMap\Fader.lua
+SexyMap\HudMap.xml
+SexyMap\HudMap.lua
+SexyMap\Ping.lua
+SexyMap\ZoneText.lua
+_LangueOff.lua

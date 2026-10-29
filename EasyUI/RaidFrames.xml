@@ -1,0 +1,8 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<!-- Bouton d'unité des cadres de raid EasyUI (sécurisé : ciblage / sorts au clic) -->
+	<Button name="EasyUIRaidButtonTemplate" inherits="SecureUnitButtonTemplate" virtual="true">
+		<Size>
+			<AbsDimension x="88" y="46"/>
+		</Size>
+	</Button>
+</Ui>

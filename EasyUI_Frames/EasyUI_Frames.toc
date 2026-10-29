@@ -1,0 +1,16 @@
+## Interface: 30300
+## Title: |cffffd100Easy|rUI - Cadres Blizzard
+## Notes: Module Cadres Blizzard d'EasyUI. Se gère depuis le panneau EasyUI (/eui > Options > Modules).
+## Author: Guillaume
+## Version: 3.3.0
+## Dependencies: EasyUI
+## SavedVariables: MoveAnything_CustomFrames, MoveAnything_CharacterSettings, MoveAnything_UseCharacterSettings, MADB
+
+_LangueOn.lua
+MoveAnything\localization.en.lua
+MoveAnything\MoveAnything.lua
+MoveAnything\MoveAnything.xml
+MoveAnything\MoveAnythingBlizzardOptions.xml
+MoveAnything\MoveAnythingFrameEditor.lua
+MoveAnything\MoveAnythingVirtualMovers.xml
+_LangueOff.lua

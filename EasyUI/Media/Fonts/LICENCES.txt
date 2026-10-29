@@ -1,0 +1,30 @@
+Polices incluses dans EasyUI
+=============================
+
+Ces polices sont des logiciels libres, redistribuables avec leur licence.
+SIL Open Font License 1.1 : https://openfontlicense.org
+Ubuntu Font Licence 1.0 : https://ubuntu.com/legal/font-licence
+
+BarlowCondensed.ttf - Barlow Condensed Medium
+  Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)
+  Licence : This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+
+Changa.ttf - Changa
+  Copyright 2011 Eduardo Tunni (www.tipo.net.ar)
+  Licence : This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+
+FiraSansMedium.ttf - Fira Sans Medium
+  Digitized data copyright 2012-2016, The Mozilla Foundation and Telefonica S.A.
+  Licence : Licensed under the Open Font License, version 1.1 or later
+
+Poppins.ttf - Poppins Regular
+  Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins)
+  Licence : This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL
+
+RussoOne.ttf - Russo One
+  Copyright (c) 2011-2012, Jovanny Lemonad (jovanny.ru), with Reserved Font Name "Russo"
+  Licence : This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+
+Ubuntu.ttf - Ubuntu Regular
+  Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
+  Licence : 

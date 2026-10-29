@@ -1,0 +1,29 @@
+## Interface: 30300
+## Title: |cffffd100Easy|rUI - Barres d'action
+## Notes: Module Barres d'action d'EasyUI. Se gère depuis le panneau EasyUI (/eui > Options > Modules).
+## Author: Guillaume
+## Version: 3.3.0
+## Dependencies: EasyUI
+## SavedVariables: Bartender4DB
+
+_LangueOn.lua
+Bartender4\SimpleSticky.lua
+Bartender4\locale\locale.xml
+Bartender4\Bartender4.lua
+Bartender4\Bar.lua
+Bartender4\ButtonBar.lua
+Bartender4\StateBar.lua
+Bartender4\ActionBar.lua
+Bartender4\CoAAuraConditionals.lua
+Bartender4\ActionButton.lua
+Bartender4\PetButton.lua
+Bartender4\ActionBars.lua
+Bartender4\BagBar.lua
+Bartender4\PetBar.lua
+Bartender4\StanceBar.lua
+Bartender4\MicroMenu.lua
+Bartender4\RepXPBar.lua
+Bartender4\VehicleBar.lua
+Bartender4\MultiCastBar.lua
+Bartender4\Options\Options.xml
+_LangueOff.lua

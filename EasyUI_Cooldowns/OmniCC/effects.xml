@@ -1,0 +1,4 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="effects\pulse.lua"/>
+	<Script file="effects\shine.lua"/>
+</Ui>
